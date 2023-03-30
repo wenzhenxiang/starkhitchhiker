@@ -1,6 +1,6 @@
 # starkhitchhiker
 Collecting the best learning materials for Stark, StarkNet, and Cairo to provide convenience for Chinese users so that they can participate better in the construction of Stark.
-
+收集Stark、StarkNet、Cairo最好的学习资料，为国内用户提供便利，更好地参与Stark的建设。
 
 # stark math
 Stark Math Blog Part I
