@@ -30,7 +30,7 @@ STARK 101 是提供代码级别的学习，翻译的相关中文资料都存在s
 Cairo whitepaper
 https://eprint.iacr.org/2021/1063.pdf
 
-本来自己也在翻译CairoVM，看到Ola团队已做就加入其中了，学习zkVM和Cairo原理最好的资料，Ola团队主翻译，个人也有参与，见zkVM 目录
+本来自己也在翻译CairoVM，看到Ola团队已做就加入其中了，学习zkVM，zkVM的指令集设计，以及Cairo的底层原理最好的资料，Ola团队主翻译，个人也有参与，见zkVM 目录
 
 
 # Cairo1.0 
