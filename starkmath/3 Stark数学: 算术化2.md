@@ -88,7 +88,7 @@
 
 ![](https://miro.medium.com/max/700/1*vbcLUi--i3IfFzThJioQKg.png)
 
-我们的主张（即 CI statement ）是 $ a_{511}=62215 $ 。
+我们的主张（即 CI statement ）是 $a_{511}=62215$ 。
 
 我们可以通过简单地写下所有 512 个数字来为此 CI statement 创建**执行轨迹：**
 
