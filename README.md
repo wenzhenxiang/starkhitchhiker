@@ -23,7 +23,7 @@ https://github.com/starkware-industries/stark101
 
 STARK math 系列是学习stark的最好资料，我翻译的相关中文资料都存在starkmath目录里
 
-STARK 101 是提供代码级别的学习，翻译的相关中文资料都存在stark101教程里，配合数学文档实操能更加深入的理解，去通过代码生成自己的第一个STARK证明把！！
+STARK 101 是提供代码级别的学习，翻译的相关中文资料都存在stark101教程里，配合数学文档实操能更加深入的理解，去通过代码生成自己的第一个STARK证明吧！！！
 
 
 # zkvm & cairo's design
