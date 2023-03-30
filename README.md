@@ -18,24 +18,28 @@ https://medium.com/starkware/a-framework-for-efficient-starks-19608ba06fbe
 The STARK whitepape
 https://eprint.iacr.org/2018/046.pdf
 
-这是学习stark数学的最好资料，我翻译的中文链接附上
+STARK 101
+https://github.com/starkware-industries/stark101
 
+STARK math 系列是学习stark的最好资料，我翻译的相关中文资料都存在starkmath目录里
+
+STARK 101 是提供代码级别的学习，翻译的相关中文资料都存在stark101教程里，配合数学文档实操能更加深入的理解，去通过代码生成自己的第一个STARK证明把！！
 
 
 # zkvm & cairo's design
 Cairo whitepaper
 https://eprint.iacr.org/2021/1063.pdf
 
-学习zkVM和Cairo原理最好的资料，Ola团队主翻译，个人也有参与，附上链接
+本来自己也在翻译CairoVM，看到Ola团队已做就加入其中了，学习zkVM和Cairo原理最好的资料，Ola团队主翻译，个人也有参与，见zkVM 目录
 
 
 # Cairo1.0 
 
-Starkling...
+Starkling
+https://github.com/shramee/starklings-cairo1/
 
-Cairo1.0 
-
-学习Cairo开发最好的资料，后续不断补充
+Cairo本身能作为starknet智能合约的开发，也能作为有效证明的开发，是web3最有潜力的开发语言，而Cairo1.0 是类似Rust语法的编程语言，比起老的版本有更高的效率
+Starkling是学习Cairo1.0 语法最好的资料, Cairo1.0 sample code 目录将提供一些1.0版本的基础代码示例
 
 
 
