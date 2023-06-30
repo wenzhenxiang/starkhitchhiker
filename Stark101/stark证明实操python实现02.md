@@ -208,13 +208,13 @@ $$
 CP(x)=\alpha_0\cdot p_0(x)+\alpha_1 \cdot p_1(x)+\alpha_2 \cdot p_2(x)
 $$
 
-$ \alpha_0,\alpha_1,\alpha_2  $ 是从验证者获得的随机字段元素，在我们的例子中是从信道(channel)获得的。
+$\alpha_0,\alpha_1,\alpha_2$ 是从验证者获得的随机字段元素，在我们的例子中是从信道(channel)获得的。
 
 证明（有理函数） $CP$ 是一个多项式，也就高概率证明每个 $p_0,p_1,p_2$
 
 本身也是对的多项式。
 
-在下一部分中，你将为等效事实生成证明。 但让我们先使用`Channel.receive_random_field_element `创建 CP 以获得$\alpha_i$:
+在下一部分中，你将为等效事实生成证明。 但让我们先使用`Channel.receive_random_field_element `创建 CP 以获得 $\alpha_i$ :
 
 ```纯文本
 def get_CP(channel):
